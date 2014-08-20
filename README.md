@@ -1,6 +1,6 @@
 # Batches
 
-Various Windows batch files that have served as a means to an end. Or an end to a means?
+Various Windows batch files that have served as a means to an end. Or an end to a means? Whatever. That's not important. What's important is cookies. And cheesy cheddar rolls. And tortillas. Really, anything that is edible that comes in batches.
 
 ## MySQL Backup
 
