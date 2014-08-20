@@ -17,7 +17,7 @@ FOR /f "tokens=1-4 delims=/ " %%a IN ('date/t') DO (
 
 REM *** VERIFY AND UPDATE THESE SETTINGS BEFORE INITIAL RUN ***
 REM *** mysql must point to the \bin directory! ***
-SET bkupdir=C:\MySQL-Backups
+SET bkupdir=C:\path\to\where\backups\will\live
 SET mysqldir=C:\path\to\MySQL\bin
 SET dbhost=localhost
 SET dbuser=
