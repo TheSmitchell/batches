@@ -13,3 +13,9 @@ A batch file to create daily, weekly, and monthly backups of a MySQL database. O
 File: a5Restart.bat
 
 A crude process to restart a set of Alpha5 Application Web Servers. This isn't the way you should handle your web services. You shouldn't use this batch file. Do as I say, not as I do.
+
+## Temp Directory Cleaner
+
+File: cleanTemp.bat
+
+Deletes all the crap in the temp directory. Because flithy procs are filthy.
